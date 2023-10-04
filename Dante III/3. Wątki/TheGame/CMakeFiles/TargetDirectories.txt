@@ -1,0 +1,4 @@
+/mnt/d/hakery/SO2Linux/TheGame/CMakeFiles/rebuild_cache.dir
+/mnt/d/hakery/SO2Linux/TheGame/CMakeFiles/edit_cache.dir
+/mnt/d/hakery/SO2Linux/TheGame/CMakeFiles/TheGame.dir
+/mnt/d/hakery/SO2Linux/TheGame/CMakeFiles/LibsModule.dir

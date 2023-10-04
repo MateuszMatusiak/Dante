@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TheGame.dir/main.cpp.o CMakeFiles/TheGame.dir/Map.cpp.o  -o TheGame  libLibsModule.a -lpthread -lrt -lm -lncursesw 
